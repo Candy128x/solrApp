@@ -1,0 +1,2 @@
+# solrApp
+solr applcation
