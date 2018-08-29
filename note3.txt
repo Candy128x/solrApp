@@ -1,0 +1,6 @@
+proj: solrApp
+#180828
+
+
+remtsoapp https://github.com/Candy128x/solrApp
+brnsoappo
